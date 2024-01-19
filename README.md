@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# React Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React admin dashboard is a dynamic web application interface designed for efficiently managing and visualizing data within an organization. Leveraging the power of React, a popular JavaScript library for building user interfaces, these dashboards offer a responsive and interactive experience. The design focuses on providing administrators and decision-makers with a comprehensive overview of key metrics, analytics, and functionalities, facilitating streamlined data management and decision-making processes. With modular components, real-time updates, and a user-friendly layout, React admin dashboards empower users to navigate complex datasets, monitor performance, and take informed actions, ultimately enhancing the efficiency and effectiveness of administrative tasks.
 
-## Available Scripts
+## Live Demonstration
 
-In the project directory, you can run:
+The react admin dashboard demo can be [viewed online here](https://nikeshoes-three.vercel.app/)
 
-### `npm start`
+Here are screenshots that show the demo application in use.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Home Page
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Home Page](./src/Assets/homepage.png?raw=true "Optional Title")
 
-### `npm test`
+# Hi, I'm Adesh Salsundar ! 👋
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 About Me
 
-### `npm run build`
+Hello visitors , I'm a skilled web developer passionate about crafting user-centric and visually appealing websites. Proficient in JavaScript, Next.js, React.js, Node.js, MongoDB, HTML, and CSS, I bring ideas to life through clean and efficient code.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### My Projects
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **[ShopingGo ](https://shopinggo.vercel.app/)** : ( Role : Developer ) ShopingGo is an online e-commerce platform that provides a seamless and convenient shopping experience for users. With a user-friendly interface and a wide range of products, ShopingGo aims to be your go-to destination for all your shopping needs.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **[ThoughtFlix ](https://thoughtflix.vercel.app/)** : ( Role : Developer ) Welcome to ThoughtFlix, where profound wisdom meets cinematic flair. Immerse yourself in a world where quotes come to life, each thought unfolding like scenes in a movie. ThoughtFlix is not just a platform; it's a journey through the landscapes of inspiration, where the power of words is captured in every frame. Discover the art of living thoughtfully, as we curate and present a reel of insightful quotes that resonate with the rhythm of life. Join us on this cinematic voyage, where the screen is your canvas, and each quote paints a masterpiece of inspiration. Welcome to ThoughtFlix – where ideas sparkle, and thoughts shine in the spotlight.
 
-### `npm run eject`
+- **[DBATU - Student Drive ](https://mradesh3.github.io/DBATU-Student-Drive/)** : ( Role : Developer ) Welcome to DBATU - Student Drive, where we provide the data to students like projects PPTs, word files and many more.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **[Technical Trip](https://mradesh3.github.io/DBATU-Student-Drive/)** : ( Role : Developer ) Welcome to Technical Trip, where we introduce our users to the beneficial tools that they equired in their technical trip.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Feel free to explore my [GitHub profile](https://github.com/MRadesh3) for more examples of my work.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 🔗 Get In Touch
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
-## Learn More
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesh-salsundar-a73b4121a/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeshsalsundar1713@gmail.com)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8080120538?text=Welcome%20to%20thoughtFlix)
 
-### Code Splitting
+Let's build something amazing together !
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Feedback
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any feedback, please reach out to us at shopinggocustomers@gmail.com
