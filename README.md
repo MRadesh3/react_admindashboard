@@ -4,7 +4,7 @@ A React admin dashboard is a dynamic web application interface designed for effi
 
 ## Live Demonstration
 
-The react admin dashboard demo can be [viewed online here](https://nikeshoes-three.vercel.app/)
+The react admin dashboard demo can be [viewed online here](https://reactadmindashboard-seven.vercel.app/)
 
 Here are screenshots that show the demo application in use.
 
