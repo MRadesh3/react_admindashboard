@@ -16,7 +16,7 @@ Here are screenshots that show the demo application in use.
 
 ## 🚀 About Me
 
-Hello visitors , I'm a skilled web developer passionate about crafting user-centric and visually appealing websites. Proficient in JavaScript, Next.js, React.js, Node.js, MongoDB, HTML, and CSS, I bring ideas to life through clean and efficient code.
+Hello visitors, I'm a skilled web developer passionate about crafting user-centric and visually appealing websites. Proficient in JavaScript, Next.js, React.js, Node.js, MongoDB, HTML, and CSS, I bring ideas to life through clean and efficient code.
 
 ### My Projects
 
@@ -24,15 +24,15 @@ Hello visitors , I'm a skilled web developer passionate about crafting user-cent
 
 - **[ThoughtFlix ](https://thoughtflix.vercel.app/)** : ( Role : Developer ) Welcome to ThoughtFlix, where profound wisdom meets cinematic flair. Immerse yourself in a world where quotes come to life, each thought unfolding like scenes in a movie. ThoughtFlix is not just a platform; it's a journey through the landscapes of inspiration, where the power of words is captured in every frame. Discover the art of living thoughtfully, as we curate and present a reel of insightful quotes that resonate with the rhythm of life. Join us on this cinematic voyage, where the screen is your canvas, and each quote paints a masterpiece of inspiration. Welcome to ThoughtFlix – where ideas sparkle, and thoughts shine in the spotlight.
 
-- **[DBATU - Student Drive ](https://mradesh3.github.io/DBATU-Student-Drive/)** : ( Role : Developer ) Welcome to DBATU - Student Drive, where we provide the data to students like projects PPTs, word files and many more.
+- **[DBATU - Student Drive ](https://dbatustudentdrive.vercel.app/)** : ( Role : Developer ) Welcome to DBATU - Student Drive, where we provide the data to students like projects PPTs, word files, and many more.
 
-- **[Technical Trip](https://mradesh3.github.io/DBATU-Student-Drive/)** : ( Role : Developer ) Welcome to Technical Trip, where we introduce our users to the beneficial tools that they equired in their technical trip.
+- **[Nike Shoes](https://nikeshoes-three.vercel.app/)** : ( Role : Developer ) Discover stylish Nike Arrivals, quality comfort and innovation for your active life.
 
 Feel free to explore my [GitHub profile](https://github.com/MRadesh3) for more examples of my work.
 
 ### 🔗 Get In Touch
 
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adeshsalsundar.online/)
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesh-salsundar-a73b4121a/)
 
@@ -44,4 +44,4 @@ Let's build something amazing together !
 
 ## Feedback
 
-If you have any feedback, please reach out to us at adeshsalsundar1713@gmail.com
+If you have any feedback, please reach out to me at adeshsalsundar1713@gmail.com
